@@ -1,0 +1,9 @@
+C:\Users\Benjamin\documents\visual studio 2013\Projects\BitcoinAnalyser\BitcoinAnalyser\bin\Release\BitcoinAnalyser.exe.config
+C:\Users\Benjamin\documents\visual studio 2013\Projects\BitcoinAnalyser\BitcoinAnalyser\bin\Release\BitcoinAnalyser.exe
+C:\Users\Benjamin\documents\visual studio 2013\Projects\BitcoinAnalyser\BitcoinAnalyser\bin\Release\BitcoinAnalyser.pdb
+C:\Users\Benjamin\documents\visual studio 2013\Projects\BitcoinAnalyser\BitcoinAnalyser\obj\Release\BitcoinAnalyser.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin\documents\visual studio 2013\Projects\BitcoinAnalyser\BitcoinAnalyser\obj\Release\BitcoinAnalyser.Form1.resources
+C:\Users\Benjamin\documents\visual studio 2013\Projects\BitcoinAnalyser\BitcoinAnalyser\obj\Release\BitcoinAnalyser.Properties.Resources.resources
+C:\Users\Benjamin\documents\visual studio 2013\Projects\BitcoinAnalyser\BitcoinAnalyser\obj\Release\BitcoinAnalyser.csproj.GenerateResource.Cache
+C:\Users\Benjamin\documents\visual studio 2013\Projects\BitcoinAnalyser\BitcoinAnalyser\obj\Release\BitcoinAnalyser.exe
+C:\Users\Benjamin\documents\visual studio 2013\Projects\BitcoinAnalyser\BitcoinAnalyser\obj\Release\BitcoinAnalyser.pdb
